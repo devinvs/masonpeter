@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.3904ef54.css",
-    "main.js": "/static/js/main.8cfe89d2.js",
-    "static/media/peter4.jpg": "/static/media/peter4.447f79eb5ae48f9a90c3.jpg",
-    "static/media/peter2.jpg": "/static/media/peter2.97f5393e9c5511ae57ca.jpg",
-    "static/media/peter1.jpg": "/static/media/peter1.24d1eec4f8a0a2a8adc7.jpg",
-    "static/media/peter3.jpg": "/static/media/peter3.1c866a68143b411f3f79.jpg",
-    "static/media/mason5.jpg": "/static/media/mason5.5f42eddeae6543c3ab5c.jpg",
-    "static/media/mason2.jpg": "/static/media/mason2.ae52a08b0ba4dd0573ba.jpg",
-    "static/media/mason4.jpg": "/static/media/mason4.d0acdfae1cff27e7df70.jpg",
-    "static/media/mason3.jpg": "/static/media/mason3.ce45f7d1626c5e27ab74.jpg",
-    "static/media/mason1.jpg": "/static/media/mason1.bb30ad4d988c62ce3c8b.jpg",
-    "static/media/peter5.jpg": "/static/media/peter5.c8e359b472137a0a4280.jpg",
-    "index.html": "/index.html",
-    "main.3904ef54.css.map": "/static/css/main.3904ef54.css.map",
-    "main.8cfe89d2.js.map": "/static/js/main.8cfe89d2.js.map"
+    "main.css": "/masonpeter/static/css/main.3904ef54.css",
+    "main.js": "/masonpeter/static/js/main.ffdc4126.js",
+    "static/media/peter4.jpg": "/masonpeter/static/media/peter4.447f79eb5ae48f9a90c3.jpg",
+    "static/media/peter2.jpg": "/masonpeter/static/media/peter2.97f5393e9c5511ae57ca.jpg",
+    "static/media/peter1.jpg": "/masonpeter/static/media/peter1.24d1eec4f8a0a2a8adc7.jpg",
+    "static/media/peter3.jpg": "/masonpeter/static/media/peter3.1c866a68143b411f3f79.jpg",
+    "static/media/mason5.jpg": "/masonpeter/static/media/mason5.5f42eddeae6543c3ab5c.jpg",
+    "static/media/mason2.jpg": "/masonpeter/static/media/mason2.ae52a08b0ba4dd0573ba.jpg",
+    "static/media/mason4.jpg": "/masonpeter/static/media/mason4.d0acdfae1cff27e7df70.jpg",
+    "static/media/mason3.jpg": "/masonpeter/static/media/mason3.ce45f7d1626c5e27ab74.jpg",
+    "static/media/mason1.jpg": "/masonpeter/static/media/mason1.bb30ad4d988c62ce3c8b.jpg",
+    "static/media/peter5.jpg": "/masonpeter/static/media/peter5.c8e359b472137a0a4280.jpg",
+    "index.html": "/masonpeter/index.html",
+    "main.3904ef54.css.map": "/masonpeter/static/css/main.3904ef54.css.map",
+    "main.ffdc4126.js.map": "/masonpeter/static/js/main.ffdc4126.js.map"
   },
   "entrypoints": [
     "static/css/main.3904ef54.css",
-    "static/js/main.8cfe89d2.js"
+    "static/js/main.ffdc4126.js"
   ]
 }
